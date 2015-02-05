@@ -1,6 +1,9 @@
 Exploratory Data Analysis
 
-This is my repository for the Coursera's course "Exploratory Data Analysis". Currently there are 8 files for the Course Project 1: 4 png pictures and 4 scripts to generate each.
+This is my repository for the Coursera's course "Exploratory Data Analysis".
+Week 1 Course Project 1:  Create four plots and save the .png files from the plots.
+
+Created 2014.02.04 by tushar montano
 
 To run this script you need to to the following:
 
